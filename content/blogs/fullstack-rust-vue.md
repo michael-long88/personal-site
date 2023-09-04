@@ -1,5 +1,5 @@
 +++
-title = 'Fullstack Rust Vue'
+title = 'Building a Full-Stack Web Application With Rust & Vue'
 date = 2023-09-03T22:46:42-04:00
 draft = false
 +++
