@@ -1,0 +1,69 @@
+baseURL = 'https://mlong.me/'
+languageCode = 'en-us'
+title = 'Michael Long'
+
+theme = 'hugo-coder'
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+author = "Michael Long"
+info = "Software Engineer Turned Data Scientist"
+description = "Michael Long's personal website"
+keywords = "blog,developer,data scientist,personal"
+avatarurl = "images/headshot_288.jpg"
+
+since = 2023
+
+enableTwemoji = true
+
+colorScheme = "auto"
+hidecolorschemetoggle = false
+# Series see also post count
+maxSeeAlsoItems = 5
+
+custom_css = ["style.css"]
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/michael-long88/"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/michael-long88/"
+[[params.social]]
+  name = "Mastodon"
+  icon = "fa fa-mastodon fa-2x"
+  weight = 3
+  url = "https://fosstodon.org/@NovelKeysInk"
+
+# Menu links
+[[languages.en.menu.main]]
+name = "Home"
+weight = 1
+url = "/"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 2
+url = "about/"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 3
+url  = "blogs/"
+
+[[languages.en.menu.main]]
+name = "Projects"
+weight = 4
+url = "projects/"
