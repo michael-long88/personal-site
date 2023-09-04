@@ -2,7 +2,9 @@ baseURL = 'https://mlong.me/'
 languageCode = 'en-us'
 title = 'Michael Long'
 
-theme = 'hugo-coder'
+theme = ['hugo-embed-pdf-shortcode', 'hugo-coder']
+
+enableInlineShortcodes = true
 
 [markup.highlight]
 style = "github-dark"
@@ -67,3 +69,8 @@ url  = "blogs/"
 name = "Projects"
 weight = 4
 url = "projects/"
+
+[[languages.en.menu.main]]
+name = "Resume"
+weight = 5
+url = "resume/"

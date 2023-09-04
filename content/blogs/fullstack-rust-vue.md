@@ -1,7 +1,7 @@
 +++
 title = 'Fullstack Rust Vue'
 date = 2023-09-03T22:46:42-04:00
-draft = true
+draft = false
 +++
 
 # Creating a full-stack Rust & Vue app
