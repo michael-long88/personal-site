@@ -1,6 +1,6 @@
 # Michael Long's Personal Site
 
-Built with Hugo. Available at http://www.mlong.me. 
+Built with Hugo. Available at <http://www.mlong.me>.
 
 To run locally:
 
