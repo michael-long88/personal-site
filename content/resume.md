@@ -1,7 +1,7 @@
 +++
 title = "Resume"
 description = "Michael Long's Resume"
-date = "2023-09-04"
+date = "2025-05-11"
 +++
 
 {{< embed-pdf url="../web_resume.pdf" hidePaginator="true" >}}
