@@ -34,20 +34,15 @@ tag = "tags"
 author = "authors"
 
 [[params.social]]
-  name = "Github"
-  icon = "fa fa-github fa-2x"
-  weight = 1
-  url = "https://github.com/michael-long88/"
+name = "Github"
+icon = "fa fa-github fa-2x"
+weight = 1
+url = "https://github.com/michael-long88/"
 [[params.social]]
-  name = "LinkedIn"
-  icon = "fa fa-linkedin fa-2x"
-  weight = 2
-  url = "https://www.linkedin.com/in/michael-long88/"
-[[params.social]]
-  name = "Mastodon"
-  icon = "fa fa-mastodon fa-2x"
-  weight = 3
-  url = "https://fosstodon.org/@NovelKeysInk"
+name = "LinkedIn"
+icon = "fa fa-linkedin fa-2x"
+weight = 2
+url = "https://www.linkedin.com/in/michael-long88/"
 
 # Menu links
 [[languages.en.menu.main]]
